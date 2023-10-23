@@ -1,0 +1,51 @@
+{
+   "incomes": [
+      {
+         "name": "Gaji bulanan",
+         "total": 5000,
+         "category": "incomes"
+      },
+      {
+         "name": "gajian turun",
+         "total": 3000,
+         "category": "Income"
+      },
+      {
+         "name": "gajian turun",
+         "total": 3000,
+         "category": "Income"
+      }
+   ],
+   "expanses": [
+      {
+         "name": "Bayar listrik",
+         "total": 1000,
+         "category": "expanses"
+      },
+      {
+         "name": "bayar tagihan",
+         "total": 500,
+         "category": "Expanse"
+      },
+      {
+         "name": "bayar tagihan",
+         "total": 500,
+         "category": "Expanse"
+      },
+      {
+         "name": "bayar tagihan",
+         "total": 500,
+         "category": "Expanse"
+      },
+      {
+         "name": "bayar tagihan",
+         "total": 500,
+         "category": "Expanse"
+      },
+      {
+         "name": "bayar tagihan",
+         "total": 500,
+         "category": "Expanse"
+      }
+   ]
+}
